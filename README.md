@@ -1,2 +1,2 @@
-# Physics_exercise
+# Physics Exercise
 Codecademy physics coding exercise
